@@ -1,0 +1,42 @@
+{
+  "doctor_questions": {
+    "symptoms": [
+      "What symptoms are you experiencing?",
+      "When did the symptoms start?",
+      "Are the symptoms getting better, worse, or staying the same?",
+      "How severe are the symptoms?",
+      "Have you experienced similar symptoms before?"
+    ],
+    "warning_signs": [
+      "Do you have fever?",
+      "Do you have severe pain?",
+      "Are you having difficulty breathing?",
+      "Have you experienced fainting?",
+      "Is there unusual or heavy bleeding?",
+      "Do you have weakness, numbness, confusion, or speech problems?"
+    ],
+    "medications": [
+      "Are you taking any medicines?",
+      "Are you taking any supplements?",
+      "Do you have any known medication allergies?",
+      "Have there been any recent medication changes?"
+    ],
+    "medical_history": [
+      "Do you have any known medical conditions?",
+      "Have you recently had an injury or infection?",
+      "Have you recently traveled?",
+      "Is there another important recent health event?"
+    ],
+    "womens_health": [
+      "When was your last menstrual period?",
+      "Have there been unusual changes in your cycle?",
+      "Is there unusual bleeding or discharge?",
+      "Could pregnancy be possible?"
+    ],
+    "general_consultation": [
+      "What should I monitor?",
+      "When should I contact you again?",
+      "What warning signs should I watch for?"
+    ]
+  }
+}
