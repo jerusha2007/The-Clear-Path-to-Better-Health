@@ -1,0 +1,46 @@
+{
+  "lifestyle_guidance": {
+    "nutrition": {
+      "recommendations": [
+        "Eat balanced meals.",
+        "Include a variety of vegetables and fruits.",
+        "Include whole grains when appropriate.",
+        "Include suitable protein sources.",
+        "Aim for variety and moderation."
+      ]
+    },
+    "hydration": {
+      "recommendations": [
+        "Maintain adequate hydration according to individual needs and circumstances.",
+        "Pay attention to increased fluid needs during appropriate situations."
+      ]
+    },
+    "physical_activity": {
+      "recommendations": [
+        "Engage in regular physical activity appropriate to your ability and health status.",
+        "Start gradually when appropriate.",
+        "Seek professional advice if health conditions affect exercise safety."
+      ]
+    },
+    "sleep": {
+      "recommendations": [
+        "Aim for sufficient sleep.",
+        "Maintain a consistent sleep routine.",
+        "Create a comfortable sleeping environment."
+      ]
+    },
+    "harmful_substances": {
+      "recommendations": [
+        "Avoid tobacco.",
+        "Avoid harmful substances."
+      ]
+    },
+    "preventive_health": {
+      "recommendations": [
+        "Attend routine preventive health checkups.",
+        "Discuss age-appropriate screening with qualified healthcare professionals."
+      ]
+    }
+  },
+  "note": "Lifestyle guidance is general and should be adapted to individual health needs with professional advice when appropriate."
+}
