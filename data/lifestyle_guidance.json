@@ -1,0 +1,84 @@
+{
+  "lifestyle_guidance": {
+    "description": "Provides general healthy lifestyle guidance that can support overall wellbeing. It does not replace individualized medical advice.",
+
+    "nutrition": {
+      "title": "Balanced Nutrition",
+      "recommendations": [
+        "Eat balanced meals with a variety of foods.",
+        "Include vegetables and fruits regularly.",
+        "Choose whole grains when appropriate.",
+        "Include suitable sources of protein.",
+        "Aim for variety and moderation in food choices.",
+        "Consider individual dietary needs and medical conditions."
+      ]
+    },
+
+    "hydration": {
+      "title": "Hydration",
+      "recommendations": [
+        "Drink fluids regularly according to your individual needs.",
+        "Pay attention to increased fluid needs during hot weather, exercise, or illness.",
+        "If you have a medical condition that affects fluid intake, follow professional medical advice."
+      ]
+    },
+
+    "physical_activity": {
+      "title": "Physical Activity",
+      "recommendations": [
+        "Try to include regular physical activity appropriate for your ability and health status.",
+        "Start gradually if you are not used to exercising.",
+        "Choose activities that are comfortable and sustainable.",
+        "Stop and seek medical advice if exercise causes concerning symptoms."
+      ],
+      "professional_guidance_when_needed": [
+        "Known heart or lung conditions",
+        "Significant physical limitations",
+        "New concerning symptoms during exercise",
+        "Recent significant injury or surgery"
+      ]
+    },
+
+    "sleep": {
+      "title": "Healthy Sleep",
+      "recommendations": [
+        "Maintain a consistent sleep and wake schedule.",
+        "Create a comfortable and quiet sleeping environment.",
+        "Limit stimulating activities close to bedtime.",
+        "Avoid excessive caffeine, especially later in the day.",
+        "Allow enough time for sleep according to your individual needs."
+      ]
+    },
+
+    "tobacco_and_harmful_substances": {
+      "title": "Avoid Harmful Substances",
+      "recommendations": [
+        "Avoid tobacco products.",
+        "Avoid harmful or unsafe substances.",
+        "Seek professional support if you are finding it difficult to stop using a harmful substance."
+      ]
+    },
+
+    "preventive_health": {
+      "title": "Preventive Healthcare",
+      "recommendations": [
+        "Attend routine health checkups when appropriate.",
+        "Discuss age-appropriate screening with qualified healthcare professionals.",
+        "Keep recommended vaccinations up to date according to local healthcare guidance.",
+        "Discuss personal risk factors with a healthcare professional."
+      ]
+    },
+
+    "daily_wellbeing": {
+      "title": "Everyday Wellbeing",
+      "recommendations": [
+        "Maintain regular daily routines when possible.",
+        "Make time for rest and relaxation.",
+        "Stay connected with supportive people.",
+        "Pay attention to changes in your physical and emotional wellbeing."
+      ]
+    },
+
+    "important_note": "Lifestyle recommendations should be adapted to individual health needs. People with medical conditions, pregnancy, significant symptoms, or other special circumstances should seek appropriate professional advice."
+  }
+}
