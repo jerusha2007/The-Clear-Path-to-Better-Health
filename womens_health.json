@@ -1,0 +1,56 @@
+{
+  "womens_health": [
+    {
+      "topic": "Menstrual Health",
+      "general_information": [
+        "Menstrual cycles can vary between individuals.",
+        "Cramps and premenstrual symptoms can occur.",
+        "Changes in a person's usual cycle may have different causes."
+      ],
+      "professional_help_when": [
+        "Bleeding is unusually heavy.",
+        "Pain is severe or unusual.",
+        "Cycle changes persist or repeatedly occur.",
+        "Symptoms interfere significantly with daily activities."
+      ]
+    },
+    {
+      "topic": "Pregnancy-Related Concerns",
+      "guidance": [
+        "The assistant should not diagnose pregnancy or pregnancy complications.",
+        "Pregnancy-related concerns should be discussed with a qualified healthcare professional."
+      ],
+      "urgent_warning_signs": [
+        "Severe abdominal or pelvic pain.",
+        "Heavy bleeding.",
+        "Fainting.",
+        "Severe weakness.",
+        "Other serious or rapidly worsening symptoms."
+      ]
+    },
+    {
+      "topic": "Vaginal Symptoms",
+      "professional_help_when": [
+        "Persistent unusual discharge.",
+        "Strong unusual odor.",
+        "Severe itching.",
+        "Sores.",
+        "Pelvic pain.",
+        "Fever.",
+        "Symptoms following possible exposure to an infection."
+      ]
+    },
+    {
+      "topic": "Breast Concerns",
+      "professional_help_when": [
+        "A new lump is noticed.",
+        "There are nipple changes.",
+        "There are skin changes.",
+        "Persistent breast pain occurs.",
+        "There is unusual nipple discharge."
+      ],
+      "guidance": "New or persistent breast changes should be discussed with a qualified healthcare professional."
+    }
+  ],
+  "safety_note": "This information is general and does not replace professional medical evaluation."
+}
