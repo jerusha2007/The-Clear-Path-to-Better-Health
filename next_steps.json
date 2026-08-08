@@ -1,0 +1,41 @@
+{
+  "next_steps": [
+    {
+      "category": "MONITOR_AT_HOME",
+      "description": "Suitable for mild symptoms with no warning signs.",
+      "recommended_actions": [
+        "Rest when appropriate.",
+        "Maintain appropriate hydration.",
+        "Monitor symptoms.",
+        "Seek medical advice if symptoms worsen or do not improve."
+      ]
+    },
+    {
+      "category": "ROUTINE_MEDICAL_CONSULTATION",
+      "description": "Suitable when symptoms persist, recur, interfere with daily life, or need professional assessment.",
+      "recommended_actions": [
+        "Arrange a consultation with a qualified healthcare professional.",
+        "Keep track of symptoms and their duration.",
+        "Share relevant medicines and medical history with the healthcare professional."
+      ]
+    },
+    {
+      "category": "PROMPT_MEDICAL_CONSULTATION",
+      "description": "Recommended when symptoms are concerning but there is no clear emergency warning sign.",
+      "recommended_actions": [
+        "Contact a healthcare professional soon.",
+        "Monitor for worsening symptoms.",
+        "Seek urgent care if emergency warning signs appear."
+      ]
+    },
+    {
+      "category": "EMERGENCY_CARE",
+      "description": "Recommended when severe or potentially life-threatening warning signs are present.",
+      "recommended_actions": [
+        "Seek immediate local emergency assistance.",
+        "Go to the nearest emergency department when appropriate.",
+        "Do not delay emergency evaluation while seeking general online guidance."
+      ]
+    }
+  ]
+}
