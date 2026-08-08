@@ -1,0 +1,59 @@
+{
+  "emergency_signs": [
+    {
+      "sign": "Severe difficulty breathing",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Severe breathing difficulty can be life-threatening."
+    },
+    {
+      "sign": "Severe or persistent chest pain",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Chest pain, especially with sweating, fainting, nausea, or shortness of breath, may require urgent assessment."
+    },
+    {
+      "sign": "Sudden weakness or numbness on one side",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Sudden one-sided weakness or numbness can be a warning sign of a serious neurological emergency."
+    },
+    {
+      "sign": "Facial drooping or difficulty speaking",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "These symptoms can indicate a serious neurological emergency."
+    },
+    {
+      "sign": "Loss of consciousness or seizure",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Loss of consciousness or a seizure requires urgent medical assessment."
+    },
+    {
+      "sign": "Severe new confusion",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Sudden severe confusion can be associated with serious medical conditions."
+    },
+    {
+      "sign": "Heavy or uncontrolled bleeding",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Significant uncontrolled bleeding can become dangerous quickly."
+    },
+    {
+      "sign": "Severe allergic reaction",
+      "action": "Seek immediate emergency medical care.",
+      "reason": "Breathing difficulty or swelling of the face, lips, tongue, or throat can be life-threatening."
+    },
+    {
+      "sign": "Sudden severe headache",
+      "action": "Seek urgent emergency medical assessment.",
+      "reason": "A sudden severe headache unlike usual headaches, especially with neurological symptoms, needs urgent evaluation."
+    },
+    {
+      "sign": "Severe dehydration",
+      "action": "Seek prompt medical attention.",
+      "reason": "Severe dehydration or inability to keep fluids down can become dangerous."
+    },
+    {
+      "sign": "Rapidly worsening condition",
+      "action": "Seek immediate medical help.",
+      "reason": "A rapidly worsening condition that feels life-threatening should not be managed at home."
+    }
+  ]
+}
