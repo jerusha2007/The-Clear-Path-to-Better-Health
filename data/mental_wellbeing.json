@@ -1,0 +1,108 @@
+{
+  "mental_wellbeing": {
+    "description": "Provides supportive, non-judgmental general information about stress, anxiety, sleep, and emotional wellbeing. It does not diagnose mental health conditions.",
+    
+    "stress": {
+      "description": "Stress can affect mood, sleep, concentration, energy, and everyday activities.",
+      "questions": [
+        "What has been causing you stress?",
+        "How long have you been feeling stressed?",
+        "How strongly is stress affecting your daily activities?",
+        "Are you having difficulty sleeping or concentrating?",
+        "Do you have someone you trust who you can talk to?"
+      ],
+      "general_guidance": [
+        "Take short breaks when possible.",
+        "Try slow and comfortable breathing.",
+        "Maintain a regular sleep routine.",
+        "Stay connected with trusted friends, family, or supportive people.",
+        "Break difficult tasks into smaller manageable steps."
+      ],
+      "seek_professional_help_when": [
+        "Stress continues for a long time.",
+        "Stress significantly affects daily activities.",
+        "Sleep or concentration problems persist.",
+        "You feel unable to manage your normal responsibilities."
+      ]
+    },
+
+    "anxiety": {
+      "description": "Anxiety can involve excessive worry, fear, restlessness, difficulty concentrating, or physical sensations such as a racing heartbeat.",
+      "questions": [
+        "What are you feeling worried or afraid about?",
+        "How long have you experienced these feelings?",
+        "How often do they occur?",
+        "Are they affecting your sleep, studies, work, or relationships?",
+        "Are you experiencing severe physical symptoms?"
+      ],
+      "general_guidance": [
+        "Try slow, comfortable breathing.",
+        "Focus on one manageable task at a time.",
+        "Maintain regular sleep and meal routines.",
+        "Talk to someone you trust.",
+        "Consider speaking with a qualified mental health professional if anxiety persists or interferes with daily life."
+      ],
+      "seek_professional_help_when": [
+        "Anxiety is persistent or worsening.",
+        "Anxiety interferes with normal daily activities.",
+        "Panic-like episodes happen repeatedly.",
+        "You feel unable to cope with your usual responsibilities."
+      ]
+    },
+
+    "sleep": {
+      "description": "Sleep difficulties can be related to stress, changes in routine, environment, lifestyle, medicines, or other health conditions.",
+      "questions": [
+        "How long have you been having sleep problems?",
+        "Is it difficult to fall asleep, stay asleep, or wake up too early?",
+        "How many hours do you usually sleep?",
+        "Do you feel rested after sleeping?",
+        "Are stress, caffeine, medicines, or changes in routine affecting your sleep?"
+      ],
+      "general_guidance": [
+        "Keep a consistent sleep and wake schedule.",
+        "Create a quiet and comfortable sleep environment.",
+        "Reduce stimulating activities close to bedtime.",
+        "Avoid excessive caffeine, especially later in the day.",
+        "Seek professional advice if sleep problems persist."
+      ],
+      "seek_professional_help_when": [
+        "Sleep problems continue for an extended period.",
+        "Daytime functioning is significantly affected.",
+        "You frequently feel extremely tired despite getting enough opportunity to sleep.",
+        "Sleep difficulties are associated with other concerning symptoms."
+      ]
+    },
+
+    "emotional_wellbeing": {
+      "description": "Emotional wellbeing can change during stressful or difficult periods. Support from trusted people and qualified professionals can be helpful.",
+      "questions": [
+        "How have you been feeling recently?",
+        "How long have you been feeling this way?",
+        "Is it affecting your daily activities?",
+        "Do you have someone you trust to talk to?",
+        "Are you feeling safe right now?"
+      ],
+      "general_guidance": [
+        "Talk to someone you trust.",
+        "Maintain regular sleep, meals, and daily routines where possible.",
+        "Spend time doing safe activities that you find meaningful or calming.",
+        "Consider professional support if distress continues or becomes difficult to manage."
+      ],
+      "professional_support": [
+        "A doctor or qualified healthcare professional",
+        "A licensed mental health professional",
+        "A trusted family member, friend, teacher, or other supportive person"
+      ],
+      "immediate_danger": {
+        "description": "If someone indicates that they may immediately harm themselves or another person, the assistant should not attempt to manage the crisis alone.",
+        "recommended_action": [
+          "Seek immediate local emergency assistance.",
+          "Stay with or contact a trusted person who can provide immediate support.",
+          "Move away from immediate sources of danger when possible.",
+          "Seek urgent professional mental health support."
+        ]
+      }
+    }
+  }
+}
