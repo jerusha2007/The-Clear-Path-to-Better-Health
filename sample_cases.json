@@ -1,0 +1,134 @@
+{
+  "sample_cases": [
+    {
+      "case_id": "CASE001",
+      "title": "Mild Headache",
+      "user_input": {
+        "age_group": "Young adult",
+        "symptom": "Mild headache",
+        "duration": "A few hours",
+        "severity": "Mild",
+        "trend": "Improving",
+        "warning_signs": false
+      },
+      "expected_next_step": "MONITOR_AT_HOME",
+      "expected_response": {
+        "what_it_could_mean": "A mild headache can have several general causes, including tiredness, dehydration, stress, or lack of sleep.",
+        "what_to_do": [
+          "Rest.",
+          "Maintain appropriate hydration.",
+          "Monitor whether the headache improves."
+        ],
+        "watch_for": [
+          "Sudden severe headache.",
+          "Weakness or numbness.",
+          "Difficulty speaking.",
+          "Confusion."
+        ]
+      }
+    },
+    {
+      "case_id": "CASE002",
+      "title": "Persistent Cough",
+      "user_input": {
+        "age_group": "Adult",
+        "symptom": "Cough",
+        "duration": "Several weeks",
+        "severity": "Moderate",
+        "trend": "Persistent",
+        "warning_signs": false
+      },
+      "expected_next_step": "ROUTINE_MEDICAL_CONSULTATION",
+      "expected_response": {
+        "what_it_could_mean": "A persistent cough can have different causes and may need professional assessment.",
+        "what_to_do": [
+          "Arrange a consultation with a qualified healthcare professional.",
+          "Monitor for changes in symptoms."
+        ],
+        "watch_for": [
+          "Difficulty breathing.",
+          "Chest pain.",
+          "Rapid worsening."
+        ]
+      }
+    },
+    {
+      "case_id": "CASE003",
+      "title": "Concerning Stomach Pain",
+      "user_input": {
+        "age_group": "Adult",
+        "symptom": "Stomach pain",
+        "duration": "One day",
+        "severity": "Moderate",
+        "trend": "Worsening",
+        "warning_signs": true
+      },
+      "expected_next_step": "PROMPT_MEDICAL_CONSULTATION",
+      "expected_response": {
+        "what_it_could_mean": "Worsening abdominal pain can have several possible causes and should be assessed based on its location and associated symptoms.",
+        "what_to_do": [
+          "Contact a qualified healthcare professional promptly.",
+          "Monitor for emergency warning signs."
+        ],
+        "watch_for": [
+          "Severe pain.",
+          "Fainting.",
+          "Heavy bleeding.",
+          "Persistent vomiting."
+        ]
+      }
+    },
+    {
+      "case_id": "CASE004",
+      "title": "Severe Breathing Difficulty",
+      "user_input": {
+        "age_group": "Adult",
+        "symptom": "Severe difficulty breathing",
+        "duration": "Sudden",
+        "severity": "Severe",
+        "trend": "Worsening",
+        "warning_signs": true
+      },
+      "expected_next_step": "EMERGENCY_CARE",
+      "expected_response": {
+        "what_it_could_mean": "Severe breathing difficulty can be a medical emergency.",
+        "what_to_do": [
+          "Seek immediate local emergency assistance.",
+          "Go to the nearest emergency department when appropriate."
+        ],
+        "watch_for": [
+          "Inability to speak normally because of breathlessness.",
+          "Loss of consciousness.",
+          "Chest pain.",
+          "Rapid worsening."
+        ]
+      }
+    },
+    {
+      "case_id": "CASE005",
+      "title": "Mild Cold",
+      "user_input": {
+        "age_group": "Adult",
+        "symptom": "Cold symptoms",
+        "duration": "Three days",
+        "severity": "Mild",
+        "trend": "Stable",
+        "warning_signs": false
+      },
+      "expected_next_step": "MONITOR_AT_HOME",
+      "expected_response": {
+        "what_it_could_mean": "Mild cold symptoms can occur with common respiratory infections or other temporary causes.",
+        "what_to_do": [
+          "Rest.",
+          "Maintain appropriate hydration.",
+          "Monitor symptoms."
+        ],
+        "watch_for": [
+          "Difficulty breathing.",
+          "Chest pain.",
+          "Severe worsening."
+        ]
+      }
+    }
+  ]
+}
