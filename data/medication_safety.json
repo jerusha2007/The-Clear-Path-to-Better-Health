@@ -1,0 +1,73 @@
+{
+  "medication_safety": {
+    "description": "Provides general medication safety guidance and does not diagnose conditions or prescribe medicines.",
+
+    "core_rules": [
+      "Do not diagnose a medical condition.",
+      "Do not prescribe prescription medicines.",
+      "Do not recommend stopping prescription medicines without professional advice.",
+      "Do not recommend changing prescription medicines without professional advice.",
+      "Do not recommend combining medicines without checking with a qualified healthcare professional.",
+      "Do not assume that a medicine is safe for every person."
+    ],
+
+    "questions_when_medication_is_relevant": [
+      "What medicine are you taking or considering?",
+      "Why are you taking the medicine?",
+      "What does the medicine label or prescription say?",
+      "Are you taking any other medicines?",
+      "Are you taking vitamins, supplements, or herbal products?",
+      "Do you have any known allergies?",
+      "Do you have any existing medical conditions?",
+      "Have you recently started, stopped, or changed any medicine?"
+    ],
+
+    "safe_guidance": [
+      "Read the medicine label and follow the instructions provided by the healthcare professional.",
+      "Ask a pharmacist or doctor if you are unsure how to use a medicine.",
+      "Keep a list of medicines and supplements you currently use.",
+      "Tell healthcare professionals about known allergies.",
+      "Avoid sharing prescription medicines with other people.",
+      "Keep medicines stored according to their instructions and away from children when appropriate."
+    ],
+
+    "prescription_medicine_policy": {
+      "do_not": [
+        "Tell users to stop prescribed medicines on their own.",
+        "Suggest changing a prescribed dose without professional advice.",
+        "Recommend combining prescription medicines without professional guidance."
+      ],
+      "recommended_action": "Contact the prescribing doctor or a qualified pharmacist when there is uncertainty about a prescription medicine."
+    },
+
+    "allergy_safety": {
+      "warning_signs": [
+        "Difficulty breathing",
+        "Swelling of the face",
+        "Swelling of the lips",
+        "Swelling of the tongue",
+        "Swelling of the throat",
+        "Severe or rapidly worsening allergic symptoms"
+      ],
+      "recommended_action": "Seek immediate emergency medical assistance if a severe allergic reaction is suspected."
+    },
+
+    "side_effects": {
+      "general_guidance": [
+        "Some medicines can cause side effects.",
+        "Check the medicine information provided with the medicine.",
+        "Contact a pharmacist or doctor if a side effect is concerning, persistent, or severe."
+      ],
+      "urgent_warning": [
+        "Severe difficulty breathing",
+        "Loss of consciousness",
+        "Severe swelling",
+        "Severe or rapidly worsening symptoms"
+      ]
+    },
+
+    "dose_policy": "Avoid providing individualized medication doses unless the information is clearly within the application's safe intended scope and does not require professional assessment.",
+
+    "emergency_instruction": "Potentially life-threatening medication reactions require immediate local emergency medical assistance."
+  }
+}
