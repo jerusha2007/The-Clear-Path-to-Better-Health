@@ -1,0 +1,67 @@
+{
+  "next_steps": {
+    "monitor_at_home": {
+      "title": "Monitor at Home",
+      "description": "This option may be suitable for mild symptoms when there are no warning signs and the person is otherwise well.",
+      "actions": [
+        "Rest and allow your body time to recover.",
+        "Maintain appropriate hydration.",
+        "Monitor whether symptoms are improving, staying the same, or getting worse.",
+        "Keep track of any new symptoms.",
+        "Seek medical advice if symptoms persist, recur, or become more severe."
+      ],
+      "when_to_change_plan": [
+        "Symptoms become severe.",
+        "New warning signs appear.",
+        "Symptoms continue longer than expected.",
+        "Daily activities become difficult because of the symptoms."
+      ]
+    },
+
+    "routine_medical_consultation": {
+      "title": "Routine Medical Consultation",
+      "description": "Consider speaking with a doctor or qualified healthcare professional when symptoms persist, recur, or interfere with normal daily activities.",
+      "reasons": [
+        "Symptoms are not improving.",
+        "The problem keeps coming back.",
+        "Symptoms interfere with school, work, sleep, or daily activities.",
+        "A medical examination or testing may be needed.",
+        "You have an existing medical condition that may affect the symptoms."
+      ],
+      "recommended_action": "Arrange an appointment with a qualified healthcare professional."
+    },
+
+    "prompt_medical_consultation": {
+      "title": "Prompt Medical Consultation",
+      "description": "Contact a healthcare professional soon when symptoms are concerning but there is no clear sign of an immediate emergency.",
+      "examples": [
+        "Symptoms are worsening.",
+        "Moderate or persistent pain.",
+        "Persistent fever or repeated fever.",
+        "Repeated vomiting or difficulty maintaining hydration.",
+        "New symptoms that are concerning or unusual.",
+        "Symptoms occurring in someone who may be medically vulnerable."
+      ],
+      "recommended_action": "Contact a doctor or qualified healthcare professional as soon as reasonably possible."
+    },
+
+    "emergency_care": {
+      "title": "Emergency Care",
+      "description": "Immediate emergency medical attention is appropriate when severe or potentially life-threatening warning signs are present.",
+      "warning_signs": [
+        "Severe difficulty breathing.",
+        "Severe or persistent chest pain.",
+        "Sudden weakness or numbness on one side.",
+        "Facial drooping or difficulty speaking.",
+        "Loss of consciousness or seizure.",
+        "Severe new confusion.",
+        "Heavy or uncontrolled bleeding.",
+        "Severe allergic reaction with breathing difficulty or swelling.",
+        "Sudden severe headache with neurological symptoms.",
+        "Severe dehydration or inability to keep fluids down.",
+        "Any rapidly worsening condition that feels life-threatening."
+      ],
+      "recommended_action": "Seek immediate local emergency medical assistance or go to the nearest emergency department."
+    }
+  }
+}
