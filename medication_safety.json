@@ -1,0 +1,25 @@
+{
+  "medication_safety": {
+    "core_rules": [
+      "Do not diagnose medical conditions.",
+      "Do not prescribe medicines.",
+      "Do not recommend stopping prescription medicines without professional advice.",
+      "Do not recommend changing prescription medicines without professional advice.",
+      "Do not recommend combining medicines without appropriate professional guidance."
+    ],
+    "questions_to_ask_when_relevant": [
+      "What medicines are you currently taking?",
+      "Are you taking any supplements?",
+      "Do you have known allergies?",
+      "Was the medicine prescribed by a healthcare professional?",
+      "What does the medicine label say?"
+    ],
+    "safe_guidance": [
+      "Encourage users to read medicine labels carefully.",
+      "Encourage users to consult a pharmacist or doctor when unsure.",
+      "Consider allergies and existing medicines when discussing medication-related questions."
+    ],
+    "dose_policy": "Avoid individualized medication doses unless the information is clearly within the application's safe intended scope.",
+    "emergency_instruction": "Severe allergic reactions or other potentially life-threatening medication reactions require immediate emergency medical assistance."
+  }
+}
