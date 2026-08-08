@@ -1,0 +1,80 @@
+{
+  "emergency_signs": [
+    {
+      "sign": "Severe difficulty breathing",
+      "action": "Seek immediate local emergency assistance or emergency medical evaluation."
+    },
+    {
+      "sign": "Persistent or severe chest pain",
+      "associated_warning_signs": [
+        "Sweating",
+        "Fainting",
+        "Nausea",
+        "Shortness of breath"
+      ],
+      "action": "Seek immediate emergency medical care."
+    },
+    {
+      "sign": "Sudden one-sided weakness or numbness",
+      "associated_warning_signs": [
+        "Facial drooping",
+        "Difficulty speaking",
+        "Confusion",
+        "Sudden loss of coordination"
+      ],
+      "action": "Seek immediate emergency medical evaluation."
+    },
+    {
+      "sign": "Loss of consciousness",
+      "action": "Seek immediate emergency medical assistance."
+    },
+    {
+      "sign": "Seizure",
+      "action": "Seek immediate emergency medical assistance."
+    },
+    {
+      "sign": "Severe new confusion",
+      "action": "Seek urgent emergency medical evaluation."
+    },
+    {
+      "sign": "Heavy or uncontrolled bleeding",
+      "action": "Seek immediate emergency medical care."
+    },
+    {
+      "sign": "Severe allergic reaction",
+      "associated_warning_signs": [
+        "Difficulty breathing",
+        "Swelling of the face",
+        "Swelling of the lips",
+        "Swelling of the tongue",
+        "Swelling of the throat"
+      ],
+      "action": "Seek immediate emergency medical assistance."
+    },
+    {
+      "sign": "Sudden severe headache",
+      "associated_warning_signs": [
+        "Neurological symptoms",
+        "Weakness",
+        "Numbness",
+        "Confusion",
+        "Speech problems"
+      ],
+      "action": "Seek urgent emergency medical evaluation."
+    },
+    {
+      "sign": "Severe dehydration",
+      "associated_warning_signs": [
+        "Unable to keep fluids down",
+        "Severe weakness",
+        "Signs of collapse"
+      ],
+      "action": "Seek urgent medical evaluation."
+    },
+    {
+      "sign": "Rapidly worsening potentially life-threatening condition",
+      "action": "Seek immediate local emergency assistance."
+    }
+  ],
+  "general_rule": "When severe or life-threatening warning signs are present, emergency medical evaluation should take priority over general self-care guidance."
+}
