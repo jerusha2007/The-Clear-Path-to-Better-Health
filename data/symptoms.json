@@ -1,0 +1,161 @@
+{
+  "symptoms": {
+    "fever": {
+      "questions": [
+        "What is your temperature, if measured?",
+        "How long have you had the fever?",
+        "Are you having chills, severe weakness, or difficulty breathing?",
+        "Are you able to drink fluids normally?",
+        "Do you have any known medical conditions or take regular medicines?"
+      ],
+      "general_causes": [
+        "Common infections",
+        "Recent illness",
+        "Dehydration",
+        "Other medical conditions"
+      ],
+      "self_care": [
+        "Rest adequately",
+        "Drink appropriate fluids",
+        "Monitor your temperature and symptoms",
+        "Seek professional advice if symptoms persist or worsen"
+      ],
+      "urgent_warning": [
+        "Severe difficulty breathing",
+        "Severe confusion or loss of consciousness",
+        "Severe dehydration",
+        "Rapidly worsening condition"
+      ]
+    },
+
+    "headache": {
+      "questions": [
+        "Did the headache start suddenly or gradually?",
+        "How severe is the headache?",
+        "Where is the pain located?",
+        "How long have you had the headache?",
+        "Have you had similar headaches before?",
+        "Do you have fever, vomiting, vision changes, weakness, numbness, confusion, or speech problems?",
+        "Was there any recent head injury?"
+      ],
+      "general_causes": [
+        "Stress",
+        "Lack of sleep",
+        "Dehydration",
+        "Tension-type headache",
+        "Migraine",
+        "Other medical conditions"
+      ],
+      "self_care": [
+        "Rest in a comfortable environment",
+        "Maintain appropriate hydration",
+        "Get adequate sleep",
+        "Monitor whether the headache improves"
+      ],
+      "urgent_warning": [
+        "Sudden severe headache unlike usual headaches",
+        "Weakness or numbness on one side",
+        "Difficulty speaking",
+        "Severe confusion",
+        "Loss of consciousness",
+        "Headache following a significant injury"
+      ]
+    },
+
+    "cough_cold": {
+      "questions": [
+        "How long have you had the cough or cold symptoms?",
+        "Do you have fever?",
+        "Are you experiencing difficulty breathing?",
+        "Do you have chest pain or wheezing?",
+        "Are the symptoms improving or getting worse?"
+      ],
+      "general_causes": [
+        "Common viral respiratory infections",
+        "Allergies",
+        "Environmental irritation",
+        "Other respiratory conditions"
+      ],
+      "self_care": [
+        "Rest adequately",
+        "Drink appropriate fluids",
+        "Avoid smoke and other respiratory irritants",
+        "Monitor symptoms for worsening"
+      ],
+      "urgent_warning": [
+        "Severe difficulty breathing",
+        "Chest pain",
+        "Blue or grey lips or skin",
+        "Severe or rapidly worsening symptoms"
+      ]
+    },
+
+    "stomach_pain": {
+      "questions": [
+        "Where exactly is the pain located?",
+        "How severe is the pain?",
+        "When did the pain start?",
+        "Is the pain getting worse?",
+        "Do you have vomiting or fever?",
+        "Is there any bleeding?",
+        "Have you fainted or felt extremely weak?",
+        "Is pregnancy possible?"
+      ],
+      "general_causes": [
+        "Indigestion",
+        "Gas",
+        "Mild gastrointestinal illness",
+        "Other digestive conditions"
+      ],
+      "self_care": [
+        "Rest and monitor symptoms",
+        "Maintain appropriate hydration",
+        "Avoid foods that clearly worsen symptoms",
+        "Seek professional advice if symptoms persist or worsen"
+      ],
+      "urgent_warning": [
+        "Severe or rapidly worsening abdominal pain",
+        "Heavy bleeding",
+        "Fainting",
+        "Severe vomiting with inability to keep fluids down",
+        "Severe tenderness",
+        "Severe pain during possible pregnancy"
+      ]
+    },
+
+    "dizziness": {
+      "questions": [
+        "Do you feel faint, unsteady, or like the surroundings are spinning?",
+        "When did the dizziness begin?",
+        "Have you been drinking enough fluids?",
+        "Have you recently been ill?",
+        "Are you taking any medicines or supplements?",
+        "Do you have chest pain or difficulty breathing?",
+        "Do you have weakness, numbness, difficulty speaking, or confusion?",
+        "Have you fainted?"
+      ],
+      "general_causes": [
+        "Dehydration",
+        "Recent illness",
+        "Medication effects",
+        "Low blood pressure",
+        "Balance-related problems",
+        "Other medical conditions"
+      ],
+      "self_care": [
+        "Sit or lie down safely if feeling faint",
+        "Avoid activities that could cause injury",
+        "Maintain appropriate hydration",
+        "Monitor whether symptoms improve"
+      ],
+      "urgent_warning": [
+        "Fainting",
+        "Severe weakness",
+        "Chest pain",
+        "Difficulty speaking",
+        "One-sided weakness or numbness",
+        "Severe new confusion"
+      ]
+    }
+  }
+}
