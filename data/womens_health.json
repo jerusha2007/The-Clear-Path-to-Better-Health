@@ -1,0 +1,112 @@
+{
+  "womens_health": {
+    "menstrual_health": {
+      "description": "General information about menstrual cycles, common cramps, PMS, and changes in menstrual patterns.",
+      "common_concerns": [
+        "Menstrual cramps",
+        "Premenstrual symptoms",
+        "Changes in cycle length",
+        "Changes in menstrual flow"
+      ],
+      "questions": [
+        "When was your last menstrual period?",
+        "Are your cycles usually regular?",
+        "How long does your period usually last?",
+        "How heavy is the bleeding compared with your usual periods?",
+        "How severe are your cramps or pain?",
+        "Are your symptoms affecting your normal daily activities?"
+      ],
+      "general_guidance": [
+        "Track your menstrual cycle and symptoms.",
+        "Rest when needed.",
+        "Maintain appropriate hydration.",
+        "Use comfortable self-care measures that are safe for you.",
+        "Discuss persistent or unusual changes with a qualified healthcare professional."
+      ],
+      "seek_medical_help_when": [
+        "Bleeding is unusually heavy or persistent.",
+        "Period pain is severe or significantly affects daily activities.",
+        "Periods become repeatedly irregular or significantly different from your usual pattern.",
+        "Symptoms persist or become worse."
+      ]
+    },
+
+    "pregnancy_related_concerns": {
+      "description": "Provides general guidance for pregnancy-related concerns without attempting to diagnose pregnancy complications.",
+      "questions": [
+        "Is pregnancy possible or confirmed?",
+        "How far along is the pregnancy, if known?",
+        "What symptoms are you experiencing?",
+        "How severe are the symptoms?",
+        "Are you experiencing pain, bleeding, dizziness, fainting, or vomiting?"
+      ],
+      "general_guidance": [
+        "Seek appropriate professional pregnancy care.",
+        "Do not rely on the assistant to diagnose pregnancy-related complications.",
+        "Contact a qualified healthcare professional when symptoms are unusual or concerning."
+      ],
+      "urgent_warning_signs": [
+        "Severe abdominal or pelvic pain",
+        "Heavy vaginal bleeding",
+        "Fainting or loss of consciousness",
+        "Severe dizziness or weakness",
+        "Severe difficulty breathing",
+        "Rapidly worsening symptoms"
+      ],
+      "recommended_action": "Seek urgent medical assessment when serious warning signs are present."
+    },
+
+    "vaginal_symptoms": {
+      "description": "General guidance for unusual vaginal symptoms and when professional evaluation may be appropriate.",
+      "questions": [
+        "What symptoms are you experiencing?",
+        "How long have the symptoms been present?",
+        "Is there unusual discharge?",
+        "Has the color, amount, or smell changed?",
+        "Are you experiencing itching, burning, sores, or pelvic pain?",
+        "Do you have fever?",
+        "Could there have been an exposure to an infection?"
+      ],
+      "general_guidance": [
+        "Avoid self-diagnosing based only on symptoms.",
+        "Keep the area clean using gentle hygiene practices.",
+        "Avoid products that cause irritation.",
+        "Seek professional evaluation for persistent or unusual symptoms."
+      ],
+      "seek_medical_help_when": [
+        "Unusual discharge persists.",
+        "There is a strong or unusual odor.",
+        "Severe itching or irritation occurs.",
+        "Sores or unusual skin changes appear.",
+        "Pelvic pain occurs.",
+        "Fever occurs with vaginal symptoms.",
+        "Symptoms occur after possible exposure to an infection."
+      ]
+    },
+
+    "breast_concerns": {
+      "description": "General information about breast changes that may need professional assessment.",
+      "questions": [
+        "Have you noticed a new lump or swelling?",
+        "How long has the change been present?",
+        "Is there persistent breast pain?",
+        "Have you noticed nipple changes?",
+        "Is there unusual nipple discharge?",
+        "Have you noticed changes in the breast skin?"
+      ],
+      "general_guidance": [
+        "Many breast changes can have different causes and cannot be assessed reliably through an AI assistant alone.",
+        "Monitor changes but do not ignore persistent or unusual findings.",
+        "Discuss new or persistent breast changes with a qualified healthcare professional."
+      ],
+      "seek_medical_help_when": [
+        "A new breast lump persists.",
+        "There are persistent breast changes.",
+        "There are nipple changes.",
+        "There is unusual nipple discharge.",
+        "There are persistent skin changes.",
+        "Persistent or unexplained breast pain occurs."
+      ]
+    }
+  }
+}
