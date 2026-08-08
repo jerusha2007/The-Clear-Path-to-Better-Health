@@ -1,0 +1,49 @@
+{
+  "mental_wellbeing": [
+    {
+      "topic": "Stress",
+      "general_guidance": [
+        "Identify situations that may be contributing to stress.",
+        "Maintain regular sleep and daily routines when possible.",
+        "Take appropriate breaks.",
+        "Talk with a trusted person when helpful."
+      ]
+    },
+    {
+      "topic": "Anxiety",
+      "general_guidance": [
+        "Use calm breathing or relaxation techniques when appropriate.",
+        "Maintain regular routines.",
+        "Consider speaking with a qualified mental health professional when anxiety is persistent or disruptive."
+      ],
+      "professional_help_when": [
+        "Anxiety is persistent.",
+        "Anxiety interferes with daily functioning.",
+        "Symptoms are becoming difficult to manage."
+      ]
+    },
+    {
+      "topic": "Sleep",
+      "general_guidance": [
+        "Maintain a consistent sleep schedule.",
+        "Create a comfortable sleep environment.",
+        "Avoid excessive stimulation close to bedtime.",
+        "Seek professional advice when sleep problems persist."
+      ]
+    },
+    {
+      "topic": "Emotional Wellbeing",
+      "general_guidance": [
+        "Talk to trusted people.",
+        "Maintain supportive routines.",
+        "Consider professional support when distress persists or affects daily functioning."
+      ]
+    }
+  ],
+  "crisis_guidance": {
+    "immediate_danger_to_self": "Prioritize immediate local emergency assistance and trusted human support.",
+    "immediate_danger_to_others": "Prioritize immediate local emergency assistance and trusted human support.",
+    "principle": "The assistant should not attempt to manage an immediate crisis alone."
+  },
+  "safety_note": "The assistant provides general supportive information and is not a replacement for qualified mental health care."
+}
